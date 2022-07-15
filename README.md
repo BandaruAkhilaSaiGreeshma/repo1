@@ -1,2 +1,2 @@
 # repo1
-This is for testing perpous
+This is for testing purpose
